@@ -31,7 +31,7 @@ The first data analyst was just recruited, and you are in charge of the API they
 ## Part one: A new API for the data analyst team
 The data analyst team asks three API routes to you:
 
-1. We need an endpoint to track the number of purchases made by each client.
+1. We need an endpoint to track the number of purchases made by each customer.
 2. We need an endpoint to track the number of times a product is purchased and the money it
    generated in total.
 3. We need an endpoint to track the average amount of money a client spends on each purchase.
