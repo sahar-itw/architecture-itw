@@ -29,7 +29,7 @@ The first data analyst was just recruited, and you are in charge of the API they
 
 
 ## Part one: A new API for the data analyst team
-The data analyst team asks three API routes to you:
+The data analyst team asks four API routes to you:
 
 1. We need an endpoint to track the number of purchases made by each customer.
 2. We need an endpoint to track the number of times a product is purchased and the money it
@@ -54,7 +54,7 @@ docker compose exec db psql -U postgres
 
 
 ## Part two: adding functionalities
-Since you arrive at the company, another team introduced a feature tracking the time since a
+Since you arrived at the company, another team introduced a feature tracking the time since a
 customer onboarded themself on our product, leading to the new schema.
 
 ![New entity relationship schema](new_schema.png)
